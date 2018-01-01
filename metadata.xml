@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Sagas from the Far East; or, Kalmouk and Mongolian Traditionary Tales</dc:title>
+      <dc:creator>Rachel Harriette Busk (1831–1907)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2012-08-03</dc:publisher>
+      <dc:date>2012-08-03</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+
+ This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+
+ Scans of this work are available from the Internet Archive (copy 1, 2, 3, 4).
+
+ The new cover design has been created using the Gentium Basic font and an ornament found in the original book on a scanned cloth cover.
+
+ </dc:rights>
+      <dc:subject>Folklore, Kalmuck</dc:subject>
+      <dc:subject>Folklore, Mongolian</dc:subject>
+      <dc:description>A collection of Kalmouk and Mongolian stories, that, although original derived from Indian sources, have received an entire transformation in the course of their adoption by their new country. The stories have been somewhat expurgated to meet Victorian sensitivities, and are supplemented with extensive notes.</dc:description>
+      <dc:identifier>pg:40402</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
